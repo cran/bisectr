@@ -1,0 +1,12 @@
+c0b9dba54c74db1e22ad4c5eb5cd6d96 *DESCRIPTION
+ded984d465d37cc64814afaae828730c *NAMESPACE
+206a060458758887b327a945c5806747 *NEWS
+d4a1476dd539b20a9a30a7d29bbbd57c *R/bisect.r
+0c10cf9f0bbb115c4489909207d89e3f *README.md
+f17c23830891cc62190b36cfcff882bd *bisectr_0.0.2.tar.gz
+4e06027b7cf46a184aa2dec074cb29fd *man/bisect_install.Rd
+5d3e91a4bffdc015a7159079016ce2c5 *man/bisect_load_all.Rd
+af2c19eaf57ce37586b6d4e06ef87529 *man/bisect_require.Rd
+b1323da3f4999e72c56ae3f3cdbfca95 *man/bisect_return_interactive.Rd
+d1de0ada9dcf5916853c2768b805a493 *man/bisect_runtest.Rd
+c829fd358fb71d340328c3e1d2c4d9ad *man/bisectr.Rd
